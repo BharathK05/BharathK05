@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BharathK05
-- 👀 I’m interested in Machine learning and Deep learning in Data Science
-- 🌱 I’m currently pursuing B.Tech Computer Science Engineering @ SRMIST
+- 👀 I’m interested in Machine learning, Deep learning, Data Science
+- 🌱 I’m currently pursuing B.Tech Computer Science Engineering @ SRM Institute of Science and Technology 
 - 📫 How to reach me Instagram- @bhrthx__ LinkedIn @bharathk0611
 
 <!---
