@@ -9,7 +9,7 @@
 - **😏 Pronoun: *Techsavy***
 
 - **💬 Ask me about anything, I'm happy to help.**
-- **😎 "Ich kenne Deutsch" (*"I Know German"*)**
+- **😎 "Ich kenne Deutsch!" (*"I Know German!"*)**
 - **⚡ Fun Fact I love Programming, Cricket and Weight Lifting.**
 - **📫 How to reach me:**
   <br /> [<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharathk0611/)        [<img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/bhrthx__/)     [<img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Bhrthx__)
