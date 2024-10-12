@@ -22,7 +22,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="pycharm"/> <img width="48" height="48" src="https://img.icons8.com/color/48/google-logo.png" alt="google-logo"/> <img width="48" height="48" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/chatgpt.png" alt="chatgpt"/> <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/>
 
 ### **MY WORK SETUP**
-- <img width="20" height="20" src="https://img.icons8.com/ios-filled/20/mac-os.png" alt="mac-os"/>   *IMAC M1 8 Core CPU 10 Core GPU*
+- <img width="20" height="20" src="https://img.icons8.com/metro/26/FFFFFF/mac-os.png" alt="mac-os"/>   *IMAC M1 8 Core CPU 10 Core GPU*
 - <img width="20" height="20" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/>   *ASUS TUF GAMING F15 i5 11th Gen CPU NVIDIA RTX3050 GPU*
 - <img width="20" height="20" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/>  *HP PROBOOK i5 13th Gen CPU Intel Iris GPU*
 
