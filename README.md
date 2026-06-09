@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm **Bharath**, a 3rd-year Computer Science Engineering student at **SRM Institute of Science and Technology**, aspiring to become a next-generation **app developer** and pursue an impactful career in **Machine Learning & Artificial Intelligence**.
+I'm **Bharath**, a Final year Computer Science Engineering student at **SRM Institute of Science and Technology**, aspiring to become a next-generation **app developer** and pursue an impactful career in **Machine Learning & Artificial Intelligence**.
 
 I'm passionate about building meaningful, scalable solutions and exploring intelligent systems that bridge creativity and engineering. I constantly work on strengthening my foundations in algorithms, software development, and ML/AI fundamentals to prepare for high-impact roles in tech.
 
